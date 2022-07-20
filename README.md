@@ -23,7 +23,7 @@ We used the following [data.js](/static/js/data.js) to create the website.
 
 A glimpse of the completed website:
 
-![website.jpg](/static/images/website.jpg)
+![website.png](/static/images/website.png)
 
 ### Navigating UFO Sights
 
@@ -31,19 +31,19 @@ A glimpse of the completed website:
 
 We will use the below filters to filter out the UFO Sightings in the United States and Canada.
 
-![website_filters.jpg](/static/images/website_filters.jpg)
+![website_filters.png](/static/images/website_filters.png)
 
 - Search Results
 
 As we filtered for sighting in "CA" in the Province "ON" when we enter the data in the filter column, it updates the data automatically and displays the results as below.
 
-![website_results.jpg](/static/images/website_results.jpg)
+![website_results.png](/static/images/website_results.png)
 
 ## Summary
 
 
 #### Drawback
-The first flaw with this design is that the user must be aware of the filter's parameters before using it.
+The flaw with this design is that the user must be aware of the filter's parameters before using it.
 
 #### Recommendations
 - Frst remomendation to address the above drawback is drop-down lists with value outputs in each filter.
